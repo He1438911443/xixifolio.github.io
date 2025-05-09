@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/xixifolio.github.io/static/css/main.08f0cd18.css",
+    "main.js": "/xixifolio.github.io/static/js/main.3d8ebdbb.js",
+    "static/css/64.bba8fa55.chunk.css": "/xixifolio.github.io/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/xixifolio.github.io/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/xixifolio.github.io/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.152b44e0.chunk.js": "/xixifolio.github.io/static/js/769.152b44e0.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/xixifolio.github.io/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/xixifolio.github.io/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/zhedaLogo1.png": "/xixifolio.github.io/static/media/zhedaLogo1.a14e717cbf8352374da7.png",
+    "static/media/coursera1.jpg": "/xixifolio.github.io/static/media/coursera1.f9cfeae1f737175d9555.jpg",
+    "static/media/manOnTable.svg": "/xixifolio.github.io/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/xixifolio.github.io/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/quoraLogo.png": "/xixifolio.github.io/static/media/quoraLogo.85eb29f4d52320c8ed99.png",
+    "static/media/developerActivity.svg": "/xixifolio.github.io/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/airbnbLogo.png": "/xixifolio.github.io/static/media/airbnbLogo.e8497507db673acd3991.png",
+    "static/media/facebookLogo.png": "/xixifolio.github.io/static/media/facebookLogo.f46d68b24e9b4f73ee8b.png",
+    "static/media/skill.svg": "/xixifolio.github.io/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/resume.pdf": "/xixifolio.github.io/static/media/resume.f0f733dd3cd732b39262.pdf",
+    "static/media/saayaHealthLogo.webp": "/xixifolio.github.io/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
+    "static/media/nextuLogo.webp": "/xixifolio.github.io/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "index.html": "/xixifolio.github.io/index.html",
+    "static/media/talksCardBack.svg": "/xixifolio.github.io/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.08f0cd18.css.map": "/xixifolio.github.io/static/css/main.08f0cd18.css.map",
+    "main.3d8ebdbb.js.map": "/xixifolio.github.io/static/js/main.3d8ebdbb.js.map",
+    "64.bba8fa55.chunk.css.map": "/xixifolio.github.io/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/xixifolio.github.io/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/xixifolio.github.io/static/css/769.b3cbb36b.chunk.css.map",
+    "769.152b44e0.chunk.js.map": "/xixifolio.github.io/static/js/769.152b44e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08f0cd18.css",
+    "static/js/main.3d8ebdbb.js"
+  ]
+}
