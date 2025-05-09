@@ -1,7 +1,9 @@
 import React from "react";
 import "./SocialMedia.scss";
 import {socialMediaLinks} from "../../portfolio";
-
+//import Bilibili from "../icons/bilibili";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faTv , faDesktop} from "@fortawesome/free-solid-svg-icons"; 
 export default function socialMedia() {
   if (!socialMediaLinks.display) {
     return null;
@@ -92,17 +94,6 @@ export default function socialMedia() {
         </a>
       ) : null}
 
-      {socialMediaLinks.medium ? (
-        <a
-          href={socialMediaLinks.medium}
-          className="icon-button medium"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <i className="fab fa-medium"></i>
-          <span></span>
-        </a>
-      ) : null}
 
       {socialMediaLinks.stackoverflow ? (
         <a
@@ -124,6 +115,18 @@ export default function socialMedia() {
           rel="noopener noreferrer"
         >
           <i className="fab fa-kaggle"></i>
+          <span></span>
+        </a>
+      ) : null}
+      {/* 新增b站电视图标部分 */}
+      {socialMediaLinks.bilibili ? (
+        <a
+          href={socialMediaLinks.bilibili}
+          className="icon-button bilibili"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i className="fas fa-desktop"></i>
           <span></span>
         </a>
       ) : null}
